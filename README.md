@@ -11,11 +11,11 @@ IBM Worklight is a easy and useful tool for developing mobile hybrid application
 
 ###Statement
 
-This repo is build for worklight learning, all the tutorial codes will be provided here, everyone can use these codes to learn worklight.
+This repo is built for IBM Worklight learning, all tutorial codes will be provided for free, everyone can use these codes to learn the main features of Worklight.
 
-Before you download these tutorial codes, you should setup your worklight develop environment first. After that, you can create your worklight project followed the IBM official documentations.
+Before you download these tutorial codes, you should setup your worklight develop environment first. After that, you can create your own worklight project followed the IBM official documentations.
 
-Then you can copy the codes to the folders of "adapters" and "apps" in your worklight project.
+Then you can copy the codes to the folders of "adapters" and "apps" in your worklight project. For decrease the file size, all the external jQuery files are removed from the project, you should download form the jQuery site and add to your project.
 
 ###About
 
