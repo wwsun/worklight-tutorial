@@ -1,7 +1,7 @@
 Worklight Tutorials
 ==================
 ###Introduction
-IBM Worklight is a easy and useful tool for developing mobile hybrid applications. There are four different approaches are provided: web development, hybrid development, hybrid mixed development, and native development.
+IBM Worklight is an easy and useful tool for developing mobile hybrid applications. There are four different approaches are provided: web development, hybrid development, hybrid mixed development, and native development.
 
 ###Environment
 
@@ -20,5 +20,5 @@ Then you can copy the codes to the folders of "adapters" and "apps" in your work
 ###About
 
 > Author: Weiwei SUN, Southeast University
-
-> Homepage: [wwsun.me](http://wwsun.me/about.html)
+> 
+> Contact me via [this page](http://wwsun.me/about.html)
